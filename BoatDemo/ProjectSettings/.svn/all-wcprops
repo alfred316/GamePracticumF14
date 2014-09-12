@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/gpg/svn/!svn/ver/1583/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings
+END
+GraphicsSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/GraphicsSettings.asset
+END
+NavMeshLayers.asset
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/NavMeshLayers.asset
+END
+DynamicsManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/DynamicsManager.asset
+END
+NetworkManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/NetworkManager.asset
+END
+TagManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/gpg/svn/!svn/ver/1524/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/TagManager.asset
+END
+EditorBuildSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/EditorBuildSettings.asset
+END
+EditorSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/EditorSettings.asset
+END
+ProjectSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/gpg/svn/!svn/ver/1583/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/ProjectSettings.asset
+END
+Physics2DSettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/gpg/svn/!svn/ver/1583/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/Physics2DSettings.asset
+END
+QualitySettings.asset
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/gpg/svn/!svn/ver/1537/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/QualitySettings.asset
+END
+TimeManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/TimeManager.asset
+END
+InputManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/InputManager.asset
+END
+AudioManager.asset
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/gpg/svn/!svn/ver/1417/PracticumF13/LUA/trunk/BoatDemo/ProjectSettings/AudioManager.asset
+END
