@@ -1,13 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\StreamingAssets\drivers.lua">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\detectPlayer.js">
     <Files>
-      <File FileName="Assets\Scripts\LuaLogger.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BoatWatercourseCollision.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\LuaConsole.cs" Line="22" Column="32" />
-      <File FileName="Assets\Scripts\ShipControls.cs" Line="1" Column="1" />
-      <File FileName="Assets\StreamingAssets\drivers.lua" Line="5" Column="29" />
-      <File FileName="Assets\Scripts\LuaAPI.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\detectPlayer.js" Line="31" Column="3" />
+      <File FileName="Assets\MyScripts\disableMovement.js" Line="18" Column="41" />
+      <File FileName="Assets\MyScripts\enableCar.js" Line="17" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
